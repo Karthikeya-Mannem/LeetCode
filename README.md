@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/MANNEM99/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/MANNEM99/LeetCode/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/MANNEM99/LeetCode/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/MANNEM99/LeetCode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/MANNEM99/LeetCode/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MANNEM99/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/MANNEM99/LeetCode/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/MANNEM99/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
