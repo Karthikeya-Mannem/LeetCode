@@ -10,6 +10,7 @@ class Solution {
         while(binform > 0){
             if(binform % 2 == 1){
                 ans = ans*x;
+                binform = binform-1;
             }
             x *= x;
             binform = binform/2;
