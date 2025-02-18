@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/MANNEM99/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/MANNEM99/LeetCode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/MANNEM99/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/MANNEM99/LeetCode/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/MANNEM99/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/MANNEM99/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MANNEM99/LeetCode/tree/master/0217-contains-duplicate) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/MANNEM99/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/MANNEM99/LeetCode/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MANNEM99/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/MANNEM99/LeetCode/tree/master/0053-maximum-subarray) |
 | [1013-fibonacci-number](https://github.com/MANNEM99/LeetCode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
