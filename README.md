@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/MANNEM99/LeetCode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/MANNEM99/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/MANNEM99/LeetCode/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/MANNEM99/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/MANNEM99/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/MANNEM99/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MANNEM99/LeetCode/tree/master/0217-contains-duplicate) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/MANNEM99/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/MANNEM99/LeetCode/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/MANNEM99/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/MANNEM99/LeetCode/tree/master/0268-missing-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/MANNEM99/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/MANNEM99/LeetCode/tree/master/0792-binary-search) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/MANNEM99/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0898-transpose-matrix](https://github.com/MANNEM99/LeetCode/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/MANNEM99/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/MANNEM99/LeetCode/tree/master/1677-matrix-diagonal-sum) |
