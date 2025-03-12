@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MANNEM99/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/MANNEM99/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/MANNEM99/LeetCode/tree/master/1677-matrix-diagonal-sum) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/MANNEM99/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Bit Manipulation
 |  |
 | ------- |
