@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/MANNEM99/LeetCode/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/MANNEM99/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/MANNEM99/LeetCode/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/MANNEM99/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/MANNEM99/LeetCode/tree/master/0898-transpose-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MANNEM99/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/MANNEM99/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/MANNEM99/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/MANNEM99/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/MANNEM99/LeetCode/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/MANNEM99/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/MANNEM99/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Two Pointers
 |  |
