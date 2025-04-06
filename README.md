@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/MANNEM99/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/MANNEM99/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0225-implement-stack-using-queues](https://github.com/MANNEM99/LeetCode/tree/master/0225-implement-stack-using-queues) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -199,4 +200,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/MANNEM99/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/MANNEM99/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/MANNEM99/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/MANNEM99/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/MANNEM99/LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
