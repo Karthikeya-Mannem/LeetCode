@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/MANNEM99/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/MANNEM99/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/MANNEM99/LeetCode/tree/master/0898-transpose-matrix) |
+| [0966-binary-subarrays-with-sum](https://github.com/MANNEM99/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/MANNEM99/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MANNEM99/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/MANNEM99/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/MANNEM99/LeetCode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/MANNEM99/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/MANNEM99/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/MANNEM99/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/MANNEM99/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/MANNEM99/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/MANNEM99/LeetCode/tree/master/0724-find-pivot-index) |
+| [0966-binary-subarrays-with-sum](https://github.com/MANNEM99/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 ## Linked List
 |  |
 | ------- |
@@ -249,4 +252,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/MANNEM99/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MANNEM99/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MANNEM99/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+## Sliding Window
+|  |
+| ------- |
+| [0966-binary-subarrays-with-sum](https://github.com/MANNEM99/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->
