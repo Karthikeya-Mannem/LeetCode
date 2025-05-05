@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/MANNEM99/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MANNEM99/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/MANNEM99/LeetCode/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/MANNEM99/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/MANNEM99/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/MANNEM99/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/MANNEM99/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
@@ -81,10 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/MANNEM99/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MANNEM99/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/MANNEM99/LeetCode/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/MANNEM99/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MANNEM99/LeetCode/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/MANNEM99/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Math
 |  |
 | ------- |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/MANNEM99/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/MANNEM99/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/MANNEM99/LeetCode/tree/master/0344-reverse-string) |
+| [0451-sort-characters-by-frequency](https://github.com/MANNEM99/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Matrix
 |  |
 | ------- |
@@ -265,4 +269,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/MANNEM99/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/MANNEM99/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/MANNEM99/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
