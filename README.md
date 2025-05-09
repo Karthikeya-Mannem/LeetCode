@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/MANNEM99/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/MANNEM99/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/MANNEM99/LeetCode/tree/master/0344-reverse-string) |
+| [0793-swap-adjacent-in-lr-string](https://github.com/MANNEM99/LeetCode/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0908-middle-of-the-linked-list](https://github.com/MANNEM99/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/MANNEM99/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/MANNEM99/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/MANNEM99/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/MANNEM99/LeetCode/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/MANNEM99/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0793-swap-adjacent-in-lr-string](https://github.com/MANNEM99/LeetCode/tree/master/0793-swap-adjacent-in-lr-string) |
 ## Matrix
 |  |
 | ------- |
