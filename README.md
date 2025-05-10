@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/MANNEM99/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/MANNEM99/LeetCode/tree/master/0268-missing-number) |
+| [1873-longest-nice-substring](https://github.com/MANNEM99/LeetCode/tree/master/1873-longest-nice-substring) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,12 +71,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/MANNEM99/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/MANNEM99/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/MANNEM99/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1873-longest-nice-substring](https://github.com/MANNEM99/LeetCode/tree/master/1873-longest-nice-substring) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/MANNEM99/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/MANNEM99/LeetCode/tree/master/0169-majority-element) |
 | [0968-beautiful-array](https://github.com/MANNEM99/LeetCode/tree/master/0968-beautiful-array) |
+| [1873-longest-nice-substring](https://github.com/MANNEM99/LeetCode/tree/master/1873-longest-nice-substring) |
 ## Sorting
 |  |
 | ------- |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/MANNEM99/LeetCode/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/MANNEM99/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/MANNEM99/LeetCode/tree/master/0793-swap-adjacent-in-lr-string) |
+| [1873-longest-nice-substring](https://github.com/MANNEM99/LeetCode/tree/master/1873-longest-nice-substring) |
 ## Matrix
 |  |
 | ------- |
@@ -281,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MANNEM99/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0966-binary-subarrays-with-sum](https://github.com/MANNEM99/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1873-longest-nice-substring](https://github.com/MANNEM99/LeetCode/tree/master/1873-longest-nice-substring) |
 ## Breadth-First Search
 |  |
 | ------- |
