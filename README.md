@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/MANNEM99/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/MANNEM99/LeetCode/tree/master/0898-transpose-matrix) |
 | [0966-binary-subarrays-with-sum](https://github.com/MANNEM99/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [0968-beautiful-array](https://github.com/MANNEM99/LeetCode/tree/master/0968-beautiful-array) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/MANNEM99/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MANNEM99/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/MANNEM99/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/MANNEM99/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/MANNEM99/LeetCode/tree/master/0169-majority-element) |
+| [0968-beautiful-array](https://github.com/MANNEM99/LeetCode/tree/master/0968-beautiful-array) |
 ## Sorting
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/MANNEM99/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/MANNEM99/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/MANNEM99/LeetCode/tree/master/0268-missing-number) |
+| [0968-beautiful-array](https://github.com/MANNEM99/LeetCode/tree/master/0968-beautiful-array) |
 | [1013-fibonacci-number](https://github.com/MANNEM99/LeetCode/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MANNEM99/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Binary Search
