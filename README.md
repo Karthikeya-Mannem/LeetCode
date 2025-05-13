@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/MANNEM99/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/MANNEM99/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/MANNEM99/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0890-lemonade-change](https://github.com/MANNEM99/LeetCode/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/MANNEM99/LeetCode/tree/master/0898-transpose-matrix) |
 | [0966-binary-subarrays-with-sum](https://github.com/MANNEM99/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [0968-beautiful-array](https://github.com/MANNEM99/LeetCode/tree/master/0968-beautiful-array) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/MANNEM99/LeetCode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/MANNEM99/LeetCode/tree/master/0045-jump-game-ii) |
+| [0890-lemonade-change](https://github.com/MANNEM99/LeetCode/tree/master/0890-lemonade-change) |
 ## Prefix Sum
 |  |
 | ------- |
