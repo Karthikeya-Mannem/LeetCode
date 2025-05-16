@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/MANNEM99/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/MANNEM99/LeetCode/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0857-positions-of-large-groups](https://github.com/MANNEM99/LeetCode/tree/master/0857-positions-of-large-groups) |
+| [1078-remove-outermost-parentheses](https://github.com/MANNEM99/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1873-longest-nice-substring](https://github.com/MANNEM99/LeetCode/tree/master/1873-longest-nice-substring) |
 ## Matrix
 |  |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/MANNEM99/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/MANNEM99/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/MANNEM99/LeetCode/tree/master/0496-next-greater-element-i) |
+| [1078-remove-outermost-parentheses](https://github.com/MANNEM99/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
