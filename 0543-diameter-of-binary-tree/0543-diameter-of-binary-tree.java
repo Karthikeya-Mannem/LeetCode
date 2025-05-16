@@ -27,7 +27,7 @@ class Solution {
         int left = dfs(root.left);
         int right = dfs(root.right);
         int localCombined = left + right;
-        globalCombinedMax = Math.max(globalCombinedMax, localCombined); // complete left/right child, or join curr root.
-        return Math.max(left , right) + 1; // pick single path + 1
+        globalCombinedMax = Math.max(globalCombinedMax, localCombined); 
+        return Math.max(left , right) + 1;
     }
 }
