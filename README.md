@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0968-beautiful-array](https://github.com/MANNEM99/LeetCode/tree/master/0968-beautiful-array) |
 | [1013-fibonacci-number](https://github.com/MANNEM99/LeetCode/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MANNEM99/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2032-largest-odd-number-in-string](https://github.com/MANNEM99/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0857-positions-of-large-groups](https://github.com/MANNEM99/LeetCode/tree/master/0857-positions-of-large-groups) |
 | [1078-remove-outermost-parentheses](https://github.com/MANNEM99/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1873-longest-nice-substring](https://github.com/MANNEM99/LeetCode/tree/master/1873-longest-nice-substring) |
+| [2032-largest-odd-number-in-string](https://github.com/MANNEM99/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Matrix
 |  |
 | ------- |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/MANNEM99/LeetCode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/MANNEM99/LeetCode/tree/master/0045-jump-game-ii) |
 | [0890-lemonade-change](https://github.com/MANNEM99/LeetCode/tree/master/0890-lemonade-change) |
+| [2032-largest-odd-number-in-string](https://github.com/MANNEM99/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
