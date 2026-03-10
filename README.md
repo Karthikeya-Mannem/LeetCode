@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/MANNEM99/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/MANNEM99/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MANNEM99/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/MANNEM99/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/MANNEM99/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/MANNEM99/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MANNEM99/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/MANNEM99/LeetCode/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/MANNEM99/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/MANNEM99/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/MANNEM99/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1873-longest-nice-substring](https://github.com/MANNEM99/LeetCode/tree/master/1873-longest-nice-substring) |
 ## Hash Table
 |  |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MANNEM99/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MANNEM99/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/MANNEM99/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/MANNEM99/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MANNEM99/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/MANNEM99/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/MANNEM99/LeetCode/tree/master/0792-binary-search) |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/MANNEM99/LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/MANNEM99/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/MANNEM99/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/MANNEM99/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/MANNEM99/LeetCode/tree/master/0344-reverse-string) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/MANNEM99/LeetCode/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0908-middle-of-the-linked-list](https://github.com/MANNEM99/LeetCode/tree/master/0908-middle-of-the-linked-list) |
