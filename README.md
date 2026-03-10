@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/MANNEM99/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/MANNEM99/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1677-matrix-diagonal-sum](https://github.com/MANNEM99/LeetCode/tree/master/1677-matrix-diagonal-sum) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/MANNEM99/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/MANNEM99/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MANNEM99/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2048-build-array-from-permutation](https://github.com/MANNEM99/LeetCode/tree/master/2048-build-array-from-permutation) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0968-beautiful-array](https://github.com/MANNEM99/LeetCode/tree/master/0968-beautiful-array) |
 | [1013-fibonacci-number](https://github.com/MANNEM99/LeetCode/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MANNEM99/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/MANNEM99/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MANNEM99/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2032-largest-odd-number-in-string](https://github.com/MANNEM99/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Binary Search
