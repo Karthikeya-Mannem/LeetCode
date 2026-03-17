@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/MANNEM99/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/MANNEM99/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/MANNEM99/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/MANNEM99/LeetCode/tree/master/2697-lexicographically-smallest-palindrome) |
 ## String
 |  |
 | ------- |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/MANNEM99/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1873-longest-nice-substring](https://github.com/MANNEM99/LeetCode/tree/master/1873-longest-nice-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/MANNEM99/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/MANNEM99/LeetCode/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Matrix
 |  |
 | ------- |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/MANNEM99/LeetCode/tree/master/0045-jump-game-ii) |
 | [0890-lemonade-change](https://github.com/MANNEM99/LeetCode/tree/master/0890-lemonade-change) |
 | [2032-largest-odd-number-in-string](https://github.com/MANNEM99/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/MANNEM99/LeetCode/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Prefix Sum
 |  |
 | ------- |
